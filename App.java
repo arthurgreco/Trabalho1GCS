@@ -15,5 +15,15 @@ public class App {
         } else {
             System.out.println("Minutos 0");
         }
+        //1004
+        int val1,val2,prod;
+        System.out.println("Problema 1004");
+        System.out.println("informe os valores");
+        System.out.println("primeiro:");
+        val1 = in.nextInt();
+        System.out.println("primeiro:");
+        val2 = in.nextInt();
+        prod = val1 * val2;
+        System.out.println("Produto: " + prod);
     }
 }
