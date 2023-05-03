@@ -21,7 +21,7 @@ public class App {
         System.out.println("informe os valores");
         System.out.println("primeiro:");
         val1 = in.nextInt();
-        System.out.println("primeiro:");
+        System.out.println("Segundo:");
         val2 = in.nextInt();
         prod = val1 * val2;
         System.out.println("Produto: " + prod);
